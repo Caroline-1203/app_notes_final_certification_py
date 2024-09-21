@@ -1,4 +1,4 @@
-import function as f
+
 import ui
 
 
@@ -8,20 +8,20 @@ def run():
         ui.menu()
         input_from_user = input().strip()
         if input_from_user == '1':
-            f.show('all')
+            function.show('all')
         if input_from_user == '2':
-            f.add()
+            function.add()
         if input_from_user == '3':
-            f.show('all')
-            f.id_edit_del_show('del')
+            function.show('all')
+            function.id_edit_del_show('del')
         if input_from_user == '4':
-            f.show('all')
-            f.id_edit_del_show('edit')
+            function.show('all')
+            function.id_edit_del_show('edit')
         if input_from_user == '5':
-            f.show('date')
+            function.show('date')
         if input_from_user == '6':
-            f.show('id')
-            f.id_edit_del_show('show')
+            function.show('id')
+            function.id_edit_del_show('show')
         if input_from_user == '7':
             ui.goodbye()
             break
