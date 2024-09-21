@@ -24,8 +24,8 @@
 Сохранение заметок необходимо сделать в формате json или csv формат (разделение полей рекомендуется делать через точку с запятой). Реализацию пользовательского интерфейса студент может делать как ему удобнее, можно делать как параметры запуска программы (команда, данные), можно делать как запрос команды с консоли и последующим вводом данных, как-то ещё, на усмотрение студента.
 ```
 В проекте имеется:
-- Файл [gitignore](C:\Users\Каролина\OneDrive\Desktop\Python_certification\.gitignore)
+- Файл [gitignore](https://github.com/Caroline-1203/app_notes_final_certification_py/blob/8e9c5ca497182ff830828909c6c3357cb6360ee3/.gitignore)
 
-- Файл [README](C:\Users\Каролина\OneDrive\Desktop\Python_certification\README.md)
+- Файл [README](https://github.com/Caroline-1203/app_notes_final_certification_py/blob/8e9c5ca497182ff830828909c6c3357cb6360ee3/README.md)
 
-- Программа
+- [Программа](https://github.com/Caroline-1203/app_notes_final_certification_py/blob/8e9c5ca497182ff830828909c6c3357cb6360ee3/main.py)
