@@ -6,7 +6,7 @@ def create_note(number):
         input('Введите Название заметки: '), number)
     body = check_len_text_input(
         input('Введите Описание заметки: '), number)
-    return Note.Note(title=title, body=body)
+    return note.note(title=title, body=body)
 
 
 def menu():
